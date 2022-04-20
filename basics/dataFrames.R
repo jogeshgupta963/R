@@ -1,0 +1,5 @@
+studentRollNo = c(1,2,3,4)
+studentName = c('A','B','C','D')
+student = data.frame(studentRollNo,studentName)
+print(student)
+print(student$studentRollNo)
